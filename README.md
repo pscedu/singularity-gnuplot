@@ -6,6 +6,7 @@
 
 # singularity-gnuplot
 ![Plot](http://gnuplot.info/figs/gaussians.png)
+
 Singularity recipe for [gnuplot](http://gnuplot.info/).
 
 ## Installing the container on Bridges 2
