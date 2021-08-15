@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-gnuplot)
 
 # singularity-gnuplot
-![Plot](http://gnuplot.info/figs/gaussians.png)
+![Plot](http://gnuplot.sourceforge.net/demo/animate2.1.gif)
 
 Singularity recipe for [gnuplot](http://gnuplot.info/).
 
