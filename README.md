@@ -1,4 +1,5 @@
 ![Status](https://github.com/pscedu/singularity-gnuplot/actions/workflows/main.yml/badge.svg)
+![Status](https://github.com/pscedu/singularity-gnuplot/actions/workflows/pretty.yml/badge.svg)
 ![Issue](https://img.shields.io/github/issues/pscedu/singularity-gnuplot)
 ![forks](https://img.shields.io/github/forks/pscedu/singularity-gnuplot)
 ![Stars](https://img.shields.io/github/stars/pscedu/singularity-gnuplot)
