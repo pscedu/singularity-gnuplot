@@ -1,5 +1,11 @@
 name: Singularity build
 on: [push, pull_request]
+
+
+              - name: Setup apptainer
+                uses: eWaterCycle/setup-apptainer@v2.0.0
+            
+
 jobs:
   build:
     name: Build
@@ -7,7 +13,7 @@ jobs:
     strategy:
       matrix:
         singularity_version:
-          - '3.7.3'
+          - '4.0'
     container:
       image: quay.io/singularity/singularity:v${{ matrix.singularity_version }}
       options: --privileged
