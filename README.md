@@ -16,9 +16,9 @@ Copy the
 * `SIF` file
 * and the `gnuplot` script
 
-to `/opt/packages/gnuplot/5.4`.
+to `/opt/packages/gnuplot/6.0.5`.
 
-Copy the file `modulefile.lua` to `/opt/modulefiles/gnuplot` as `5.4.lua`.
+Copy the file `modulefile.lua` to `/opt/modulefiles/gnuplot` as `6.0.5.lua`.
 
 ## Building the image using the recipe
 ### To build the image locally
